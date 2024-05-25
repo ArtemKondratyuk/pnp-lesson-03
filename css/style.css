@@ -1,0 +1,10 @@
+.php {
+  width: 450px;
+  height: 500px;
+  text-align: center;
+  border: 2px solid rgb(0, 0, 0);
+  border-radius: 13px;
+  background-color: rgb(245, 245, 245);
+  margin: 0 auto;
+  padding: 10px;
+}
